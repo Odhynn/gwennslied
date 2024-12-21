@@ -1,7 +1,6 @@
 ---
 title: Wrath of the Righteous
 ---
-# _Gwennslied_
 
 > [!bug] An account on the War in Olgizmar
 > chronicled through the eyes of:
@@ -15,3 +14,7 @@ title: Wrath of the Righteous
 >   Battle Cleric of Yerastu
 > - [[Laslath]]
 >   Fungal Ballerina
+
+---
+
+> [!abstract] last chapter: [[Chapter 01 - Cold Iron]]
